@@ -1,8 +1,44 @@
-<html>
-<body>
-<h2><%= "Hello World!  dasdsadsadsa dsa dsa" %></h2>
-<h1>HELLO WORLD FIRST SERVER DEPLOYMENT</h1>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Deployment</title>
+    <style>
+        /* Style for H1 text */
+        h1 {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
 
-<h3>AND NOW !!</h3>
+        /* Image movement animation */
+        @keyframes moveImage {
+            0% { transform: translate(0, 0); }
+            25% { transform: translate(100px, 50px); }
+            50% { transform: translate(0, 100px); }
+            75% { transform: translate(-100px, 50px); }
+            100% { transform: translate(0, 0); }
+        }
+
+        /* Image styling and animation properties */
+        img {
+            position: absolute;
+            top: 100px;
+            left: 100px;
+            width: 150px;
+            height: 150px;
+            animation: moveImage 5s infinite ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <h2><%= "Hello World!  dasdsadsadsa dsa dsa" %></h2>
+    <h1>HELLO WORLD FIRST SERVER DEPLOYMENT</h1>
+
+    <h3>AND NOW !!</h3>
+
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fred-ass-monkey&psig=AOvVaw1_4w-WBDdnaRRqwQXrCLtS&ust=1725741295345000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCi5LiVr4gDFQAAAAAdAAAAABAE" alt="Moving Image">
 </body>
 </html>
+
