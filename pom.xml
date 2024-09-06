@@ -37,7 +37,7 @@
     <artifactId>tomcat7-maven-plugin</artifactId>
     <version>2.2</version>
     <configuration>
-        <url>http://ec2-44-201-1-61.compute-1.amazonaws.com:8080/manager/text</url>
+        <url>http://ec2-18-235-3-195.compute-1.amazonaws.com:8080/manager/text</url>
         <server>TomcatServer</server>
         <path>/helloworld-webapp</path>
        
