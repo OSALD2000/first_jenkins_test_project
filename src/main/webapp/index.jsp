@@ -38,7 +38,6 @@
 
     <h3>AND NOW !!</h3>
 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fred-ass-monkey&psig=AOvVaw1_4w-WBDdnaRRqwQXrCLtS&ust=1725741295345000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCi5LiVr4gDFQAAAAAdAAAAABAE" alt="Moving Image">
-</body>
+    <img src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image"></body>
 </html>
 
