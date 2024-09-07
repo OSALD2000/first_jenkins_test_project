@@ -44,13 +44,6 @@
 <img style="postion:abslute;top:800px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 
-<img style="postion:abslute;left:200px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:400px;left:200px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:600px;left:200px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:800px;left:200px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:1000px;left:200px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-
-
 <img style="postion:abslute;left:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:400px;left:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:600px;left:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
@@ -70,6 +63,13 @@
 <img style="postion:abslute;top:600px;left:800px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:800px;left:800px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:1000px;left:800px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+
+
+<img style="postion:abslute;left:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:400px;left:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:600px;left:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:800px;left:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:1000px;left:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 
 
 </body>
