@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg">
     <title>Server Deployment</title>
     <style>
         /* Style for H1 text */
