@@ -38,11 +38,11 @@
 
     <h3>AND NOW !!</h3>
     <h1>ABO KTHAP FOOOOOOOOOOOOOOOOOOOOOOOOT B TIIIIIIIIZZZZZZZZZZZZZZ AL MONKEY</h1>
-<img src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:600px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:800px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
-<img style="postion:abslute;top:1000px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;left:100px"  src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:400px;left:100px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:600px;left:100px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:800px;left:100px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
+<img style="postion:abslute;top:1000px;left:100px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 
 <img style="postion:abslute;left:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
 <img style="postion:abslute;top:400px;left:400px" src="https://i1.sndcdn.com/artworks-000054375803-hu6ytm-t500x500.jpg" alt="Moving Image">
